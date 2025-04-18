@@ -1,4 +1,4 @@
-# Emblica officinalis Network Pharmacology Pipeline
+# emblica-officinalis-bioinformatics
 
 This repository contains a Python-based automated network pharmacology and transcriptomics pipeline 
 for exploring the therapeutic potential of *Emblica officinalis* (Amla).
