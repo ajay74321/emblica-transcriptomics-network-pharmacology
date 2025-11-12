@@ -42,23 +42,12 @@ emblica-therapeutic-pipeline/
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/emblica-therapeutic-pipeline.git
-    cd emblica-therapeutic-pipeline
-    ```
-
-2. Install dependencies:
+-  Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the Flask web app:
-    ```bash
-    python pipeline/app.py
-    ```
-
-4. Upload your SDF file and disease list via the web interface.
+- Upload your SDF file and disease list via the web interface.
 
 ## 📦 Output
 
