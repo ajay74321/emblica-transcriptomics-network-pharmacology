@@ -32,26 +32,12 @@ emblica-therapeutic-pipeline/
 │   ├── sdf_files/
 │   └── diseases_list.txt
 │
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── pipeline/
-│   ├── app.py
-│   ├── utils/
-│   └── templates/
-│       └── index.html
-│
 ├── results/
 │   ├── output.csv
 │   ├── network.png
 │   ├── network.cys
-│   └── input.sdf
-│
-└── transcriptomics/
-    ├── assembly/
-    ├── annotations/
-    ├── pathway_enrichment/
-    └── README.md
+│   └── input.sdf│
+
 ```
 
 ## 🚀 Getting Started
